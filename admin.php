@@ -16,7 +16,7 @@
       <th scope="col">Нэр</th>
       <th scope="col">Овог</th>
       <th scope="col">Нууц үг</th>
-      <th scope="col">Майл хаяг</th>
+      <th scope="col">Мэйл хаяг</th>
       <th scope="col">Хүйс</th>
       <th scope="col">Аймаг</th>
       <th scope="col">Төрсөн огноо</th>
