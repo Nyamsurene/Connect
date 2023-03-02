@@ -22,6 +22,7 @@
       <th scope="col">Төрсөн огноо</th>
       <th scope="col">Утас</th>
       
+      
     </tr>
   </thead>
   <tbody>
